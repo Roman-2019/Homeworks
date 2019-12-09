@@ -1,0 +1,6 @@
+E:\C\Practice8\Reception\obj\Debug\Reception.csprojAssemblyReference.cache
+E:\C\Practice8\Reception\bin\Debug\Reception.exe.config
+E:\C\Practice8\Reception\bin\Debug\Reception.exe
+E:\C\Practice8\Reception\bin\Debug\Reception.pdb
+E:\C\Practice8\Reception\obj\Debug\Reception.exe
+E:\C\Practice8\Reception\obj\Debug\Reception.pdb
